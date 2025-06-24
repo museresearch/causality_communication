@@ -45,3 +45,8 @@ School of Journalism and Communication,
 The Chinese University of Hong Kong
 
 # Guiding questions
+
+1. How, if at all, can we use causal inference to develop new theories and sunset older ones?
+2. Should we consider ‘relaxing’ key requirements of causal inference when studying and theorizing about communication in the real-world?
+3. What kind of data is needed to make causal inferences across levels of analysis (e.g., individuals, teams, communities, societies)?
+4. What is the role of causal inference in qualitatively-driven inquiry and community-based participatory research?
