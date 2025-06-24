@@ -51,3 +51,4 @@ The Chinese University of Hong Kong
 4. What is the role of causal inference in qualitatively-driven inquiry and community-based participatory research?
 
 # Resources
+- [Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
