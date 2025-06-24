@@ -10,4 +10,35 @@ We are a very dispersed discipline and even the definition of what is “causal�
 
 # Organizers
 
+## Shuning Lu
+Philip Merrill College of Journalism,
+University of Maryland, College Park
+
+## Ewa Maslowska
+Institute of Communications Research,
+University of Illinois Urbana-Champaign
+
+## Harsh Taneja
+Institute of Communications Research,
+University of Illinois Urbana-Champaign
+
+## Nathan Walter
+School of Communication,
+Northwestern University
+
 # Speakers 
+
+## Helena Bilandzic
+Department of Media, Knowledge, and Communication, 
+University of Augsburg
+
+## Pascal Jürgens
+Trier University
+
+## Sebastian Valenzuela
+School of Communications,
+Pontificia Universidad Católica de Chile
+
+## Tian Yang
+School of Journalism and Communication,
+The Chinese University of Hong Kong
