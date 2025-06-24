@@ -43,3 +43,5 @@ Pontificia Universidad Católica de Chile
 ## Tian Yang
 School of Journalism and Communication,
 The Chinese University of Hong Kong
+
+# Guiding questions
