@@ -1,7 +1,7 @@
 # Consolidating Communication Research Through Causal Inference
-Blue Sky Big Ideas: Workshop Presented at ICA 2025
 
-# Workshop Description
+# About the Workshop
+The societal impact of communication motivated the establishment of communication studies. However, establishing causality within the field remains challenging, especially in technologically mediated contexts. Communication is a diverse field, and causal interpretations vary across traditions. This workshop will explore how different subfields address causality, emphasizing the need for causal explanations to enhance theory building. It will also discuss methodological approaches, challenges, and future directions for establishing causality in communication research.
 
 ## Session Goals
 Communication scholars are keen on understanding the cause and effects of various communication phenomena in both interpersonal and mediated contexts, and many communication theories are in fact causal. While the question of causality is not new, it has recently attracted more attention because of the unprecedented prevalence of digital trace data, which along with the availability of various publicly accessible datasets, provide unique opportunities for communication scholars to ask innovative research questions with causal inference based on observational data, yielding greater ecological validity. However, institutions have yet to incorporate these methodological advancement in their curricula. This workshop will introduce and discuss modern causal inference methods, more common in other social sciences, that can be used to determine a true cause-and-effect relationship in both quantitative and qualitative communication science. Specifically, we will focus on how communication researchers could harness causal inference thinking, designs and methods to advance their inquiries into communication phenomena. 
