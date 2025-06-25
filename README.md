@@ -50,6 +50,6 @@ The Chinese University of Hong Kong
 3. What kind of data is needed to make causal inferences across levels of analysis (e.g., individuals, teams, communities, societies)?
 4. What is the role of causal inference in qualitatively-driven inquiry and community-based participatory research?
 
-# [Resources](resources.d)
+# [Resources](resources.md)
 
 - [Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
