@@ -1,4 +1,4 @@
-[Back to Main Page](readme.md)
+[Back to Main Page](README.md)
 # Resources on Causal Inference
 
 This collection aims to provide a comprehensive overview of causal inference, from foundational principles to advanced applications and practical tools.
