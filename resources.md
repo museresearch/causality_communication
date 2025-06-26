@@ -1,4 +1,4 @@
-[back to main page](README.MD)
+[back to main page](README.md)
 # Resources on Causal Inference
 
 This collection aims to provide a comprehensive overview of causal inference, from foundational principles to advanced applications and practical tools.
@@ -85,3 +85,5 @@ These resources provide practical implementations for conducting causal inferenc
 * **Literature on competing approaches to and about causality:** A suggestion to broaden the website to include diverse philosophical and methodological perspectives on causality beyond specific statistical techniques.
 * **Practical, user-friendly guide for translating causal research into social impact initiatives:** This idea suggests creating resources that bridge the gap between causal findings and actionable strategies, possibly through partnerships with organizations or nonprofits.
 * **"R&R stage" papers:** Several contributors mentioned papers currently in "revise and resubmit" stage; these could be added once accepted and published.
+
+#[back to main page](README.md)
