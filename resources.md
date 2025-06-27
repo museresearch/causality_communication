@@ -79,6 +79,11 @@ These resources provide practical implementations for conducting causal inferenc
     * *Notes:* The contributor has offered to share the paper when it's ready for publication in May.
 
 ---
+### ICA Slides
+
+https://docs.google.com/presentation/d/1PGnCh72dK26xM8MANBJ0F7gNey7lyENpdKFdTCCO4bg/edit?usp=sharing 
+
+---
 
 ### Potential Future Initiatives
 
